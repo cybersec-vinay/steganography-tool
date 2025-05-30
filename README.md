@@ -30,5 +30,5 @@ A Python GUI-based application that allows users to hide encrypted, password-pro
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/steganography-tool.git
+git clone https://github.com/cybersec-vinay/steganography-tool.git
 cd steganography-tool
